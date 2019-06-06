@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 MKMagneticProgress is a circular progress bar for iOS written in Swift, easy to customizd via Interface builder or by code .
                        DESC
 
-  s.homepage         = 'https://github.com/malkouz/MKMagneticProgress'
+  s.homepage         = 'https://github.com/purepure/MKMagneticProgress'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Moayad Al kouz' => 'moayad_kouz9@hotmail.com' }
-  s.source           = { :git => 'https://github.com/malkouz/MKMagneticProgress.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/purepure/MKMagneticProgress.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/malkouz'
 
   s.ios.deployment_target = '8.0'
